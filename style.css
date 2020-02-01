@@ -80,3 +80,7 @@ footer {
   width: 95vw;
   margin: 1rem;
 }
+p{
+  color:white;
+  background-color: coral;
+}
